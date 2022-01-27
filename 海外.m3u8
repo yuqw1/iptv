@@ -1,0 +1,2001 @@
+#EXTM3U
+#EXTINF:-1 group-title="海外",[美国]30A Sidewalks (720p)
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1 group-title="海外",[美国]30A Music (720p)
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 group-title="海外",[美国]Law & Crime (720p)
+http://lawandcrime.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]MavTV Select (720p)
+https://mavtv-1.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Olelo 55
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Olelo 55
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_013/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Pac 12 Insider
+https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 group-title="海外",[美国]Lego Channel (1080p)
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]OML on Revry
+https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Leominster TV Public (1080p)
+http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]One America News (OAN)
+http://n1.klowdtv.net/live1/oan_720p/chunks.m3u8
+#EXTINF:-1 group-title="海外",[美国]America HD
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 group-title="海外",[美国]Lex TV (720p)
+https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Orange TV (720p)
+http://otv3.ocfl.net:1936/OrangeTV/smil:OrangeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Leominster TV Government (1080p)
+http://gov.leominster.tv/Gov/smil:Gov.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Mythos (720p)
+https://rpn1.bozztv.com/36bay2/gusa-mythos/mono.m3u8
+#EXTINF:-1 group-title="海外",[美国]3ABN Proclaim!
+https://moiptvhls-i.akamaihd.net/hls/live/652317/secure/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]ABC News 10
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="海外",[美国]ABC News 6
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]ABC News 9
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]ABC 7 Sarasota FL (WWSB) (720p)
+https://d2nt5wxzqbe1ad.cloudfront.net/out/raycom-wwsb1-hls/live.m3u8
+#EXTINF:-1 group-title="海外",[美国]PBS | World Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Magellan TV
+https://magellantv-1.vizio.wurl.com/manifest/1200.m3u8
+#EXTINF:-1 group-title="海外",[美国]Nat Geo WILD
+https://cdn1.mobiletv.bg/T5/ng_wild_hd/ng_wild_hd_794613_850k.m3u8
+#EXTINF:-1 group-title="海外",[美国]Outdoor HD
+http://ott.watch/stream/E7Q3UVKI5H/211.m3u8
+#EXTINF:-1 group-title="海外",[美国]Nick Jr.
+https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1 group-title="海外",[美国]A&E (Best of) (1080p)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Nothing Scripted (720p)
+https://30a-tv.com/NothingScripted.m3u8
+#EXTINF:-1 group-title="海外",[日本]NHK WORLD TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="海外",[日本]Tokyo MX (Webcam Stream)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+#EXTINF:-1 group-title="海外",[日本]Tokyo MX1 (360p) [Not 24-7]
+https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+#EXTINF:-1 group-title="海外",[日本]Tokyo MX2 (360p)
+https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+#EXTINF:-1 group-title="海外",[日本]Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+#EXTINF:-1 group-title="海外",[日本]NTV News24 (480p)
+https://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 group-title="海外",[日本]日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+#EXTINF:-1 group-title="海外",[日本]日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+#EXTINF:-1 group-title="海外",[日本]日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
+#EXTINF:-1 group-title="海外",[日本]日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+#EXTINF:-1 group-title="海外",[日本]NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="海外",[韩国]MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[韩国]TJB ????(SBS 大田)
+http://1.245.74.5:1935/live/tv/.m3u8
+#EXTINF:-1 group-title="海外",[韩国]??TV
+http://gayotv.net:1935/live/gayotv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[韩国]????
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[韩国]??MBC(MBC Yeosu)
+https://5c3639aa99149.streamlock.net/live_TV/TV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[韩国]??????
+http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
+#EXTINF:-1 group-title="海外",[韩国]KBC ????(SBS 光州)
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[韩国]KCTV ?? CH05
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="海外",[阿富汗]11 TV
+http://51.210.199.43/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[阿富汗]Payam-e-Afghan TV
+http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
+#EXTINF:-1 group-title="海外",[阿富汗]Hewad TV
+http://51.210.199.58/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[阿富汗]Solh TV
+http://51.210.199.42/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[阿尔巴尼亚]News 24 (576p)
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[亚美尼亚]Horizon Armenian
+http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:-1 group-title="海外",[阿根廷]Tierra Mía TV (480p)
+http://live-edge01.telecentro.net.ar/live/smil:trm.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]TV Maná Argentina (576p)
+http://streamspub.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]Telemax (720p)
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]Canal 10 Mar del Plata (720p)
+https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]Telenord Corrientes (720p)
+http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[奥地利]Swamiji TV (720p)
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[澳大利亚]Outdoor Channel (1080p)
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]Players TV (1080p)
+https://playerstv-samsungca.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]QVTV (720p)
+https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]5AAB TV (720p)
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]Sardari TV (1080p)
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/index.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]Pardesi TV
+http://stream.pardesitv.online/pardesi/index.m3u8
+#EXTINF:-1 group-title="海外",[爱尔兰]Oireachtas TV (720p)
+https://d33zah5htxvoxb.cloudfront.net/el/live/oirtv/hls_1280x720.m3u8
+#EXTINF:-1 group-title="海外",[印度]CNBC TV18
+https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]Press TV English (720p)
+https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]Press TV French (720p)
+https://live1.presstv.ir/live/presstvfr/index.m3u8
+#EXTINF:-1 group-title="海外",[英国]Players TV (1080p)
+https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[英国]Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[英国]Sheffield Live TV
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 group-title="海外",[英国]Ahlulbayt TV
+http://109.123.126.14:1935/live/livestream1.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[美国]NBC News Now HD
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]Retro TV
+https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]NASA TV Media (720p)
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]People TV HD
+https://peopletv-oo.akamaized.net/playlist720p.m3u8
+#EXTINF:-1 group-title="海外",[美国]MST3K
+https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]WFTV Channel 9 - Florida - Orlando (720p)
+https://d3nzocdfkx2ybv.cloudfront.net/in/cmg-wftve2-hls-v3/live.m3u8
+#EXTINF:-1 group-title="海外",[美国]NASA TV Public (720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
+#EXTINF:-1 group-title="海外",[美国]pocket.watch
+https://pocketwatch-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]PAC 12 Insider (1080p)
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]OAN Plus (1080p)
+http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]3ABN Dare to Dream
+https://moiptvhls-i.akamaihd.net/hls/live/652313/secure/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]3ABN Praise Him Music Channel
+https://moiptvhls-i.akamaihd.net/hls/live/554145/secure/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]3ABN Kids
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]Yo! MTV (720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]American Horrors (480p)
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Red Apple 21 (Fairfax County Public Schools)
+https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]UCTV - University of California (720p)
+https://59e8e1c60a2b2.streamlock.net/509/509.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]PBS America (720p)
+https://pbs-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Outside TV (720p)
+https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]PBS Kids Arizona (KAET-DT4)
+https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
+#EXTINF:-1 group-title="海外",[美国]Gravitas Movies (STIRR)
+https://gravitas-movies.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]KCRT-TV
+http://granicusliveus3-a.akamaihd.net/richmond/G0034_002/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[美国]NAU-TV - Northern Arizona University
+http://stream.ec.nau.edu/live/amlst:channelfour/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]The Southeastern Channel
+http://147.174.13.196/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.2 NewsNet
+https://cdn.igocast.com/channel2_hls/channel2_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]This TV Network
+https://cdn.igocast.com/channel11_hls/channel11_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.3 Ace TV
+https://cdn.igocast.com/channel3_hls/channel3_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.9 Retro TV
+https://cdn.igocast.com/channel9_hls/channel9_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.8 Untamed Sports TV
+https://cdn.igocast.com/channel8_hls/channel8_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.6 WeatherNation
+https://cdn.igocast.com/channel6_hls/channel6_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.4 Action
+https://cdn.igocast.com/channel4_hls/channel4_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.12 Jewelry TV
+https://cdn.igocast.com/channel12_hls/channel12_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.1 Buzzr
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]TV25.10 Shop LC
+https://cdn.igocast.com/channel10_hls/channel10_master.m3u8
+#EXTINF:-1 group-title="海外",[美国]Camera Smile TV
+https://playout4multirtmp.tulix.tv/live7/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]SafeTV (1080p)
+http://18.191.91.130:1935/live/safetv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Celebrity Scene TV
+https://playout4multirtmp.tulix.tv/live8/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]MavTV
+https://mavtv-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]CCX1
+http://156.142.85.152/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="海外",[美国]Sports Grid (720p)
+https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]QVTV
+https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
+#EXTINF:-1 group-title="海外",[美国]MavTV (STIRR)
+https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 group-title="海外",[美国]The 360 Channel
+https://www.filmon.com/vr-streams/4136.high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Lex TV
+http://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/chunklist_w831870727.m3u8
+#EXTINF:-1 group-title="海外",[美国]Wu Tang Collection
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=73
+#EXTINF:-1 group-title="海外",[美国]CTN (WFGC)
+http://hls1.livestreamingcdn.com:1935/livecdn631/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Sqadl (1080p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f12332eeca6a20040b328e5&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
+#EXTINF:-1 group-title="海外",[美国]SKWAD (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=71
+#EXTINF:-1 group-title="海外",[美国]CSat TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Christian Youth Channel (CYC) (720p)
+http://media.smc-host.com:1935/cycnow.com/cyc2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]BUTV10 (Boston University)
+http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
+#EXTINF:-1 group-title="海外",[美国]CT-N Court Feed
+http://video.ct-n.com/live/ctnSupreme/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[美国]WHPR (720p)
+http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Better Health TV
+http://uni5rtmp.tulix.tv/betterhealth/betterhealth/chunklist_w848830638.m3u8
+#EXTINF:-1 group-title="海外",[美国]Christian Youth Channel (CYC)
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Toon Goggles (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37
+#EXTINF:-1 group-title="海外",[美国]Folk TV (480p)
+https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]The Love Destination
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43
+#EXTINF:-1 group-title="海外",[美国]The Retro Channel HD
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]WCAT 3
+https://frontdoor.wcat-tv.org:8787/live/live.m3u8
+#EXTINF:-1 group-title="海外",[美国]WCAT 22
+https://frontdoor.wcat-tv.org:8686/live/live.m3u8
+#EXTINF:-1 group-title="海外",[美国]Trinity Channel
+http://rtmp1.abnsat.com/hls/trinity.m3u8
+#EXTINF:-1 group-title="海外",[美国]CT-N Live Stream 2 (360p)
+http://video.ct-n.com/live/web2stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]CT-N TV  - Conneticut
+http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[美国]Divine Vision (480p)
+https://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
+#EXTINF:-1 group-title="海外",[美国]Fun Roads (720p)
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 group-title="海外",[美国]WLVT PBS Allentown
+https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Glendale 11 (360p)
+https://stream.swagit.com/live-edge/glendaleaz/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]WPPT 39 Extra Philadelphia
+https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]White Plains Community Media (360p)
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Reality Mashup
+https://bk7l2w4nlx53-hls-live.5centscdn.com/AETV/514c04b31b5f01cf00dd4965e197fdda.sdp/AETV/OBS12/chunks.m3u8
+#EXTINF:-1 group-title="海外",[美国]White Plains Community Media
+http://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/chunklist_w1456643228_b512000.m3u8
+#EXTINF:-1 group-title="海外",[美国]WHOH TV - Hastings-On-Hudson - NY (360p)
+http://stream.swagit.com/live-edge/hastingsonhudsonny/smil:std-4x3-1-a/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]PCC-TV - Pinellas County Florida (480p)
+http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]KCWX
+http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
+#EXTINF:-1 group-title="海外",[美国]Party Tyme Karaoke
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
+#EXTINF:-1 group-title="海外",[美国]Leominster TV Educational (1080p)
+http://edu.leominster.tv/Edu/smil:Edu.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]HTV 1 - Houston Television
+https://stream.swagit.com/live-edge/houstontx/smil:hd-16x9-2-a/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Olelo 54
+https://granicusliveus12-a.akamaihd.net/olelo/G0125_012/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[美国]HISTORY Channel (Best of)
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]7News Boston (WHDH) (540p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/598046/4744899807001_1/livestream/master.m3u8
+#EXTINF:-1 group-title="海外",[美国]30A Darcizzle Offshore (720p)
+https://30a-tv.com/darcizzle.m3u8
+#EXTINF:-1 group-title="海外",[美国]30A The Beach Show (720p)
+https://30a-tv.com/beachy.m3u8
+#EXTINF:-1 group-title="海外",[美国]30A TV (720p)
+https://30a-tv.com/feeds/xodglobal/30atv.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]Cinco TV
+https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿根廷]Net TV (720p)
+https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[奥地利]oe24 TV (360p)
+https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[奥地利]Uppera Balkan
+http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
+#EXTINF:-1 group-title="海外",[阿鲁巴]Telearuba 13 (720p)
+http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿塞拜疆]EL TV
+http://85.132.53.162:1935/live/eltv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[阿塞拜疆]ARB 24
+http://85.132.81.184:8080/arb24/live1/index.m3u8
+#EXTINF:-1 group-title="海外",[阿塞拜疆]ARB K?p?z [Not 24/7]
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 group-title="海外",[阿塞拜疆]ATV 1
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 group-title="海外",[阿塞拜疆]ATV 2
+http://85.132.81.184:8080/atv-2/index.m3u8
+#EXTINF:-1 group-title="海外",[阿塞拜疆]ATV 4
+http://85.132.81.184:8080/atv-4/index.m3u8
+#EXTINF:-1 group-title="海外",[BA]RTV BPK (720p)
+https://webtvstream.bhtelecom.ba/gorazde_cam2.m3u8
+#EXTINF:-1 group-title="海外",[BA]РТРС [Geo-locked]
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[比利时]Notele
+https://streaming01.divercom.be/notele_live/_definst_/direct.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[保加利亚]Bulgaria On Air (576p)
+http://edge1.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[保加利亚]Bulgaria On Air
+http://edge15.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[保加利亚]Nostalgia
+https://cdn1.mobiletv.bg/T10/kanal4/kanal4_794613_850k.m3u8
+#EXTINF:-1 group-title="海外",[保加利亚]Light Channel (480p)
+https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title="海外",[保加利亚]DSTV
+http://46.249.95.140:8081/hls/data.m3u8
+#EXTINF:-1 group-title="海外",[巴林]Al Maaref TV (350p)
+http://38.96.175.40:1935/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴林]Bahrain Sports 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴林]Bahrain TV (720p)
+http://185.105.4.106:1935/live/Bahrain%20TV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[玻利维亚]TVU (276p)
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
+#EXTINF:-1 group-title="海外",[玻利维亚]ATB (360p) [Not 24/7]
+http://186.121.206.197/live/daniel/index.m3u8
+#EXTINF:-1 group-title="海外",[玻利维亚]RTP (720p)
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
+#EXTINF:-1 group-title="海外",[玻利维亚]Red Advenir
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Mackenzie (480p)
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV MANA (ENG) (484p)
+http://c2.manasat.com:1935/church-online/ingles3/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV MANA (ESP) (488p)
+http://c2.manasat.com:1935/iglesia-online/espanhol3/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV MANA (FR) (484p)
+http://c2.manasat.com:1935/eglise-online/frances3/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]Retr? Cartoon (480p)
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV MANA (RU) (486p)
+http://c2.manasat.com:1935/tserkov-online/russo3/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Maná 1 [Not 24/7]
+http://195.22.11.11:1935/tvmana/tvmana1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Maná 2 (720p) [Not 24/7]
+http://195.22.11.11:1935/tvmana/tvmana2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]AgroBrasil TV (486p)
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Pai Eterno (480p)
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]TV Creta
+https://live.streams.ovh/tvcreta/tvcreta/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]TV DIPSO (720p)
+https://live.cast-control.eu/ekpdipso/ekpdipso/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Baraza TV (1080p)
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]TV Filopoli (360p)
+http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]BARAZA TV (1080p)
+https://panik.cast-control.eu:1936/Admin_1/Admin_1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Baraza TV Greek Hits (1080p)
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Baraza TV Greek Music Hits (1080p)
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Samiaki TV (540p)
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]NG (612p)
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 group-title="海外",[HISPAM;ES]El Garage TV (480p)
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]Sercano TV (720p)
+http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN Canal 10 [Not 24/7]
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1260850294_b1848000.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN Canal 10 [Not 24/7]
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w982424886_b1248000.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN CANAL 10 [Not 24/7]
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN Canal 10 (720p)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN Canal 10 (540p) [Not 24/7]
+http://stream.grupoabchn.com:1935/TENHD/TENLIVEHD_2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN HD (720p)
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN HD [Not 24/7]
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_b1848000.m3u8
+#EXTINF:-1 group-title="海外",[洪都拉斯]TEN HD ECADOR (720p)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
+#EXTINF:-1 group-title="海外",[海地]Tele Louange
+https://5790d294af2dc.streamlock.net/8124/8124/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[匈牙利]1Mus
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="海外",[匈牙利]ATV (160p)
+http://streamservers.atv.hu/atvlive/atvstream_1_aac/playlist.m3u8
+#EXTINF:-1 group-title="海外",[匈牙利]ATV (360p)
+https://stream.atv.hu/atvlive/atvstream_2_aac/playlist.m3u8
+#EXTINF:-1 group-title="海外",[匈牙利]Hegyvidek Tv Budapest
+http://tv.hegyvidek.hu/stream_mpeg.flv
+#EXTINF:-1 group-title="海外",[匈牙利]Lóverseny k?zvetítés
+http://87.229.103.60:1935/liverelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Aceh
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Bali
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Bangka Belitung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Bengkulu
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Gorontalo
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Jambi
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Kalimantan Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Kalimantan Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Kalimantan Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Kalimantan Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Kanal 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Lampung
+http://118.97.50.107/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Maluku
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]TV Nové Zámky (486p)
+http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]Severka TV
+http://88.212.7.11/live/test_severka_web_player/playlist.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]TV Ru?inov (1080p)
+http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]Televizia OSEM (360p)
+http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]Televízia OSEM (576p)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]LocAll
+http://tv.geniusnet.sk:8081/localltv/pl.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]Reduta (486p)
+http://s1.media-planet.sk:80/live/reduta/playlist.m3u8
+#EXTINF:-1 group-title="海外",[斯洛伐克]TV DK
+http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[索马里]Kalsan TV
+http://cdn.mediavisionuae.com:1935/live/kalsantv.stream/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[索马里]Somali cable
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
+#EXTINF:-1 group-title="海外",[索马里]Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
+#EXTINF:-1 group-title="海外",[萨尔瓦多]órbita TV Canal 25
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[叙利亚]Suboro TV
+https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[泰国]ASTV News 1
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="海外",[泰国]News1
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Asgabat
+http://217.174.225.146/legacyhls/ch006_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Türkmen Owazy
+https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Türkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Türkmenistan Sport
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Türkmenistan TV
+https://alpha.tv.online.tm/hls/ch007_400/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Türkmenistan TV
+https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Turkmen Owazy
+http://217.174.225.146/legacyhls/ch005_400/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Turkmenistan TV
+http://217.174.225.146/legacyhls/ch007_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Miras
+http://217.174.225.146/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Miras
+https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Yaslyk
+http://217.174.225.146/legacyhls/ch002_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Yaslyk TV
+https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
+#EXTINF:-1 group-title="海外",[土库曼斯坦]Altyn Asyr
+http://217.174.225.146/legacyhls/ch001_720/index.m3u8
+#EXTINF:-1 group-title="海外",[突尼斯]Sahel TV (720p)
+http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Satran? TV
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]ICEL TV (720p)
+http://stream.taksimbilisim.com:1935/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Icel TV
+https://broadcasttr.com:446/iceltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]CAN TV
+http://176.10.117.18:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Semerkand TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]??FTC? TV (270p)
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]VUSLAT TV (720p)
+http://yayin3.canlitv.com:1935/live/vuslattv/HasBahCa.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Vuslat TV
+https://59cba4d34b678.streamlock.net/live/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]?ncü TV
+https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]360 TV SD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Power Turk (1080p)
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Kanal 3 (720p)
+http://stream.taksimbilisim.com:1935/kanal3/bant1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]GüNEYDO?U TV (480p) [Not 24/7]
+https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Güne? TV Kibris [Not 24/7]
+http://kuzeykibris.tv/m3u8/tv_gunes.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]KANAL 33
+http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]KANAL AVRUPA
+http://51.15.2.151/hls/kanalavrupa.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]Natural TV (1080p)
+http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]OGüN TV
+https://s01.vpis.io/ogun/ogun.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]TV4 HD Türkiye
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]TV 41 (270p)
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]TV 52 (270p)
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]TGRT HABER
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[土耳其]TV EM
+https://cdn.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Izmail TV
+https://cdn10.live-tv.od.ua:8083/izod/izod-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]1+1
+http://spacetv.in/stream/DIPK8H19CP8/172.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Херсон Плюс
+http://46.175.163.130/ks_plus/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ЧП Инфо
+http://edge3.iptv.macc.com.ua/life/magnolia_3/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]100% News
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ЧП.?нфо
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]2+2
+http://spacetv.in/stream/DIPK8H19CP8/173.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ЯТБ
+http://46.175.163.130/live_yatb/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]?НФО
+http://109.68.40.67/life/magnolia_2/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]НТК
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]IHTEP
+https://edge1.iptv.macc.com.ua/img/inter_3/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Общественное Независимое Телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Santa Cruz
+https://rtmp.info/tvsantacruz/envivo/chunks.m3u8
+#EXTINF:-1 group-title="海外",[巴西]Porto Canal (360p)
+http://213.13.26.11:1935/live/portocanal/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Terceiro Anjo (360p) [Not 24/7]
+https://streamer1.streamhost.org/salive/GMI3anjoh/livestream.m3u8
+#EXTINF:-1 group-title="海外",[巴西]Novo Tempo (480p)
+http://stream.novotempo.com/tv/tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Verdes Campos
+https://596639ebdd89b.streamlock.net/8124/8124/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]PUC TV Goiás (180p)
+http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Camara de Sao Paulo (720p)
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]TV Cidade Canal 9 (720p)
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]Rede Gospel (1080p)
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴西]CBN Rio
+https://medias.sgr.globo.com/hls/vCBNRJ/vCBNRJ.m3u8
+#EXTINF:-1 group-title="海外",[巴西]CBN S?o Paulo
+https://medias.sgr.globo.com/hls/vCBNSP/vCBNSP.m3u8
+#EXTINF:-1 group-title="海外",[白俄罗斯]Vitebsk Telekanal
+https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="海外",[白俄罗斯]First Music Channel Bielorrusia
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1 group-title="海外",[白俄罗斯]Беларусь 4
+http://95.46.208.8:26258/belarus4
+#EXTINF:-1 group-title="海外",[白俄罗斯]СТВ
+http://212.98.171.116/HLS/ctvby/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]Tele Quebec (720p)
+https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加拿大]VBS
+https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[刚果民主共和国]Boss Brothers TV (720p)
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
+#EXTINF:-1 group-title="海外",[智利]VTV Aconcaga
+http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Portalfoxmix (720p)
+http://149.56.17.92:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Portalfoxmix (720p)
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Portalfoxmix (720p)
+https://593b04c4c5670.streamlock.net/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]MáS+.TV CHILE
+https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Pintana TV
+http://cdn.vms.grupoz.cl/lapintanatv/content/5a7c8e25e19d3e641aca9fb2/hls/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Universidad Autónoma Temuco (UATV) (1080p)
+https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]VC Online (546p)
+https://593b04c4c5670.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Radio Maxima 94.9 FM SB (720p)
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Thema Televisión (La Serena) (720p)
+https://unlimited1-us.dps.live/thema/thema.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[智利]Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[喀麦隆]Vision 4 (480p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1 group-title="海外",[喀麦隆]My TV Channel (576p)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1 group-title="海外",[喀麦隆]Play TV (480p)
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[哥伦比亚]Canal C (Cali | Valle del Cauca)
+https://cloud2.streaminglivehd.com:1936/8104/8104/playlist.m3u8
+#EXTINF:-1 group-title="海外",[哥伦比亚]Canal Dos (Ciudad de Yopal)
+http://131.221.42.25:1935/streaming/canal2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[哥伦比亚]Colosal TV (720p)
+http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]TicaVisión (720p)
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]TV SUR CANAL 14
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1021985413.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]TV Sur Canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]TeleSUR Costa Rica (720p)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]Telesur Costarica
+http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]TELESUR HD
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]Canal 88 Stereo
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]HBTV TicaVisión Canal 54
+http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w1925475212.m3u8
+#EXTINF:-1 group-title="海外",[哥斯达黎加]88 Stereo (486p)
+http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞浦路斯]Kuzey Kibris TV
+http://kuzeykibris.tv/m3u8/tv_kktv.m3u8
+#EXTINF:-1 group-title="海外",[塞浦路斯]Reload (720p)
+http://web.onair-radio.eu:1935/video/video/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞浦路斯]BRT 1 FHD
+http://kuzeykibris.tv/m3u8/tv_brt1.m3u8
+#EXTINF:-1 group-title="海外",[塞浦路斯]BRT 1 HD
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞浦路斯]BRT 2 HD
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞浦路斯]BRT 3
+http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
+#EXTINF:-1 group-title="海外",[塞浦路斯]BRT 3
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[捷克共和国]Vychodo?eská TV (576p)
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[捷克共和国]VCTV
+https://stream.polar.cz/vctv/vctvlive-1/chunklist_w50387221.m3u8
+#EXTINF:-1 group-title="海外",[CZ;SK]Retro Music TV (360p)
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Santhora Short Film
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Tide TV (1080p)
+https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]KulturMD (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Elbekanal (576p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Elbekanal (576p)
+http://62.113.210.250/medienasa-live/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]RFH (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Filstalwelle (576p)
+http://62.113.210.2/filstalwelle-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]RFH Harz (1080p)
+http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
+#EXTINF:-1 group-title="海外",[德国]RFH Harz (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8?&ref=medienportal-sachsen-anhalt.de&seid=528347
+#EXTINF:-1 group-title="海外",[德国]Elbekanal Sch?nebeck (576p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:elbe_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]RFH TV (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]rheinmaintv
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[德国]rheinmaintv (720p)
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]rheinmaintv (720p)
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+#EXTINF:-1 group-title="海外",[德国]KW TV Wildau (720p)
+https://58af0c57eaf3e.streamlock.net/easycast11-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8
+#EXTINF:-1 group-title="海外",[德国]Seenluft24 (1080p)
+https://5856e1a25f71a.streamlock.net/easycast7-live/mp4:livestreamhd20/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]ems TV Lingen (280p)
+https://5889e7d0d6e28.streamlock.net/ev1tv-live/mp4:livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]ARTI TV
+http://176.10.117.18:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="海外",[德国]NRWision
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]NRWISION
+https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]MDF.1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]MDF.1 (1080p)
+http://62.113.210.250/medienasa-live/mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]MDF.1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:mdf1_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Oberlausitz TV (1080p)
+http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]PunktUM (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Punktum S?dharz (1080p)
+http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
+#EXTINF:-1 group-title="海外",[德国]teltOwkanal (1080p)
+https://5856e1a25f71a.streamlock.net/easycast8-live/mp4:livestreamhd8/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]BLK Regional TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]BLK TV (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]BLK TV Hohenm?lsen (1080p)
+http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Dessau (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Dessau (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-dessau_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Ran 1 (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]RAN1 (1080p)
+http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
+#EXTINF:-1 group-title="海外",[德国]RAN1 (1080p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]RAN1 Regionalfernsehen (1080p)
+http://62.113.210.250:1935/medienasa-live/ran1_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]Light Channel (576p)
+http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]RBW (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Magdeburg (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Merseburg-Querfurt (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Salzwedel (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Stendal (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]OK Wernigerode (1080p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-wernigerode_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]CIRA TV
+http://176.10.117.18:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="海外",[德国]TV Halle (720p)
+http://62.113.210.250/medienasa-live/tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]TV Halle (720p)
+https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[德国]TV HALLE HD (720p)
+http://58bd5b7a98e04.streamlock.net/medienasa-live/tvhalle_high/playlist.m3u8
+#EXTINF:-1 group-title="海外",[DE;AT;CH]eo TV
+https://5856e1a25f71a.streamlock.net/easycast9-live/mp4:livestreamhd5/playlist.m3u8
+#EXTINF:-1 group-title="海外",[丹麦]TV2 Lorry (720p)
+https://cdnapisec.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8
+#EXTINF:-1 group-title="海外",[丹麦]KKR TV (720p)
+http://stream.kkr.dk/live/kkr/playlist.m3u8
+#EXTINF:-1 group-title="海外",[丹麦]KKR TV (720p)
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[丹麦]KKRtv (720p)
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Amé 47 (720p)
+https://ss6.domint.net:3028/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]TeleBendicion (720p)
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]RNN (720p)
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]TV Plata (1080p)
+https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]LA MIA TV (720p)
+https://ss8.domint.net:3108/mia_str/lamiatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Canal Amé 47 (720p)
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Microvision 10 (720p)
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]PHTV Canal 34
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Ready TV [Not 24/7]
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]READY TV CANAL 6 HD (360p) [Not 24/7]
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Vallevision (720p)
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Carivision (480p)
+http://ss6.domint.net:2012/tes_str/teleelsalvador/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Vega Teve (480p)
+https://ss6.domint.net:3012/tes_str/teleelsalvador/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]LVM (480p)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Comunion TV (720p)
+http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[多明尼加共和国]Comunion TV (720p) [Not 24/7]
+http://50.30.37.36:1935/live/stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[厄瓜多尔]Hechos Ecuador
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:-1 group-title="海外",[埃及]Nogoum FM TV (180p)
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:-1 group-title="海外",[埃及]Watan TV (1080p)
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[埃及]Mekameleen TV (720p)
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/media.m3u8
+#EXTINF:-1 group-title="海外",[埃及]Mekameleen ??????
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
+#EXTINF:-1 group-title="海外",[埃及]The Kingdom Sat (576p)
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[埃及]Mokameleen TV
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?v=787761179
+#EXTINF:-1 group-title="海外",[西班牙]+24 (576p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586402/master.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]CCMA Exclusiu 1 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:oca1_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]CCMA Exclusiu 2 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:oca2_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Visión 6 TV
+https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]101 Tele Antequera
+https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]101TV Malaga
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Cadena Elite [Not 24/7]
+https://cloudvideo.servers10.com:8081/8004/index.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]NIUS
+https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/01.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Noroeste TV (720p)
+https://cloudvideo.servers10.com:8081/8032/index.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]3/24
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]CUATRO 4 TV VALL UXA
+https://limited09.todostreaming.es/live/tarson-livestream.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Popular TV Melilla
+http://5940924978228.streamlock.net:1935/8009/8009/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Popular TV Melilla (720p)
+https://5940924978228.streamlock.net/8009/8009/master.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]TeleRibera
+http://37.187.7.106/teleribera/live.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]betevé (1080p)
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
+#EXTINF:-1 group-title="海外",[西班牙]Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]TV3 Catalunya
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]TV3CAT (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]TV3CAT (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:tvi_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Diez TV
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]TV5 LIMARES HD
+https://unlimited1-us.dps.live/tv5/tv5.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Oizmendi Telebista (404p)
+https://5940924978228.streamlock.net/8161/8161/master.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Tuya La Janda Televisión
+http://185.210.20.13:8080/0.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Alcarria TV (576p)
+http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Alcarria TV
+https://cls.alcarria.tv/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Canal Super 3
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]TV Artequatre
+https://streaming01.gestec-video.com/hls/artequatreTVA.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]RTV Vida
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Logos TV (720p)
+https://streamer1.streamhost.org/salive/logosH/master.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Tarotéame (576p)
+http://93.93.67.117:1935/taroteame/tarot_web/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]RTVE
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/index_1500_av-b.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Bon Dia TV (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]Ventdelnord TV
+http://ventdelnord.tv:8080/hls/directe.m3u8
+#EXTINF:-1 group-title="海外",[西班牙]TV Girona
+http://ventdelnord.tv:8080/girona/directe.m3u8
+#EXTINF:-1 group-title="海外",[ES;AD]El 33 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:c33_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[ES;AD]La 2 (720p)
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
+#EXTINF:-1 group-title="海外",[ES;AD]3/24 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/master.m3u8
+#EXTINF:-1 group-title="海外",[ES;AD]Esport3 (1080p)
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
+#EXTINF:-1 group-title="海外",[埃塞俄比亚]Addis TV
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/chunklist_w418104290_b2130000.m3u8
+#EXTINF:-1 group-title="海外",[埃塞俄比亚]Addis TV
+https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[芬兰]Taevas TV 7 (720p)
+https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[芬兰]Himlen TV 7 (720p)
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[芬兰]Taevas TV7 (EST) (720p)
+http://vod.tv7.fi:1935/tv7-ee/tv7-ee.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[芬兰]Himlen TV7 (SE) (720p)
+http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[芬兰]Taivas TV7
+http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
+#EXTINF:-1 group-title="海外",[法国]TVR (Bretagne) (720p)
+https://streamtv.cdn.dvmr.fr/TVR/ngrp:tvr.stream_all/master.m3u8
+#EXTINF:-1 group-title="海外",[法国]viàMoselleTV (720p)
+https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[法国]Francophonie (360p)
+http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[法国]BIP TV
+http://biptv.tv:80/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="海外",[法国]BipTV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 group-title="海外",[法国]PERSIANA + HD
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[法国]TV7 Colmar
+http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[法国]Persiana Cinema
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[法国]PERSIANA ENTERTAINMENT
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[法国]Persiana Junior
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[法国]Persiana Nostalgia
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[法国]TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/master.m3u8
+#EXTINF:-1 group-title="海外",[法国]TV78 (720p)
+https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="海外",[FR;TK]4 Turk Music
+http://51.210.199.30/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[格鲁吉亚共和国]Rioni TV
+http://video.rionitv.com:9090/hls/live/rioni.m3u8
+#EXTINF:-1 group-title="海外",[格鲁吉亚共和国]MusicBox Georgia
+http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
+#EXTINF:-1 group-title="海外",[格鲁吉亚共和国]Enki Benki
+http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
+#EXTINF:-1 group-title="海外",[加纳]Resurrection TV
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[赤道几内亚]Televisión de Guinea Ecuatorial
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8
+#EXTINF:-1 group-title="海外",[赤道几内亚]TVGE
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[赤道几内亚]TVGE Int
+http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="海外",[希腊]EGNATIA TV (576p)
+https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
+#EXTINF:-1 group-title="海外",[希腊]TILEMOUSIKI
+http://wpso.com:1936/hls/music1.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Groovy TV (532p)
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Ena Channel (720p) [Not 24/7]
+http://176.9.123.140:1935/1c/stream/master.m3u8
+#EXTINF:-1 group-title="海外",[希腊]NOTIOI TV (720p)
+https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]34100 TV (720p)
+https://s1.cystream.net/live/34100/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Κρ?τηTV (720p)
+http://live.cretetv.gr:1935/cretetv/myStream/f1tv.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Epirus TV1 (576p)
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]ART TV (720p)
+http://176.9.123.140:1935/arttv/arttv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Channel 9 (720p)
+http://176.9.123.140:1935/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]NRG TV (720p)
+https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]CHANNEL 9 (720p)
+https://e-e.cyou:8222/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]4E (576p)
+http://eu2.tv4e.gr:554/live/smil:myStream.sdp.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]NS TV (720p) [Not 24/7]
+http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]DIAVATA TV HD (720p)
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]PELLA TV (576p)
+https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
+#EXTINF:-1 group-title="海外",[希腊]MESOGEIOS TV (450p)
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 group-title="海外",[希腊]MESSATIDA TV
+https://vod.streams.ovh:3037/stream/play.m3u8
+#EXTINF:-1 group-title="海外",[希腊]ATTICA TV (1080p)
+https://e-e.cyou:8222/atticatv/atticatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]MGR TV
+https://vod.streams.ovh:3876/stream/play.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Wixlar (720p)
+http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]SMILE TV CY (360p)
+https://s1.cystream.net/live/smile/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]HIGH TV (200p)
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]Xalastra TV (240p)
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[希腊]HLEKTRA TV
+http://167.86.89.20:5080/LiveApp/streams/064918158666216168224216.m3u8
+#EXTINF:-1 group-title="海外",[希腊]XPLORE (714p)
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Nasional
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Nusa Tenggara Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Nusa Tenggara Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Papua
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Riau
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sport HD
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sulawesi Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sulawesi Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sulawesi Tenggara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sulawesi Utara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sumatera Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sumatera Selatan
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Sumatera Utara
+http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]RRI Net (720p)
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="海外",[印度尼西亚]TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 group-title="海外",[以色列]Musayof (Israel) (240p) [Not 24/7]
+http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[以色列]Channel 9 [Not 24/7]
+http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
+#EXTINF:-1 group-title="海外",[印度]Amrita TV (576p)
+http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Jaihind TV (576p)
+http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Anjan (720p)
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度]Jhanjar Music [Not 24/7]
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 group-title="海外",[印度]Jonack TV (360p)
+https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度]Mangalam TV (576p)
+http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Manorama News (576p)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]??????? ????? Kasthuri (576p)
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Flowers TV (576p)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]??????? ????? Public Music (576p)
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Mastiii (576p)
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Mastiii
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Kairali TV (576p)
+http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Kairali We (576p)
+http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Kalaignar (576p)
+http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Shemaroo Bollywood Classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="海外",[印度]Shemaroo Bollywood Premier
+https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="海外",[印度]Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_1280x720_cf.m3u8
+#EXTINF:-1 group-title="海外",[印度]Shemaroo Kids
+https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8
+#EXTINF:-1 group-title="海外",[印度]Shemaroo Punjabi TV
+https://livechannel.shemaroome.com/linearplayout/punjabi-linear-channel/chunklist_1920x1080_cf.m3u8
+#EXTINF:-1 group-title="海外",[印度]India Today
+https://feeds.intoday.in/aajtak/api/master.m3u8
+#EXTINF:-1 group-title="海外",[印度]India Today (720p)
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 group-title="海外",[印度]Pratidin Time (360p)
+https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度]DD Malayalam (576p)
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]DD National (576p)
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]DD Sports (576p)
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Shraddha (360p)
+http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度]Asianet News (576p)
+http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Channel Win (360p)
+https://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度]Kappa TV (576p)
+http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Twenty Four News (576p)
+http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Puthuyugam TV (576p)
+http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Swaraj Express (576p)
+https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]MK Six (576p)
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]MK Tunes (576p)
+http://103.199.160.85/Content/mktunes/Live/Channel(MKTunes)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]B4U Kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Velicham (360p) [Not 24/7]
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[印度]Sada TV
+http://cdn12.henico.net:8080/live/sadatv/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]Reporter TV (576p)
+http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
+#EXTINF:-1 group-title="海外",[印度]FASTWAY NEWS (720p)
+http://163.47.214.155:1935/fwnews/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[INT]Ужастик
+https://autopilot.catcast.tv/content/38896/index.m3u8
+#EXTINF:-1 group-title="海外",[INT]Фантастика Sci-Fi
+https://autopilot.catcast.tv/content/38801/index.m3u8
+#EXTINF:-1 group-title="海外",[INT]Portal FoxMix TV
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
+#EXTINF:-1 group-title="海外",[INT]Премьера
+https://autopilot.catcast.tv/content/39161/index.m3u8
+#EXTINF:-1 group-title="海外",[INT]СССР ТВ
+https://autopilot.catcast.tv/content/38821/index.m3u8
+#EXTINF:-1 group-title="海外",[伊拉克]KurdSat HD
+http://176.10.117.18:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="海外",[伊拉克]Ar Rafidain TV
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8?v=
+#EXTINF:-1 group-title="海外",[伊拉克]Al Rafidain HQ (1024p)
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊拉克]Dijlah
+http://91.134.145.75:10001/Dijlah/index.m3u8
+#EXTINF:-1 group-title="海外",[伊拉克]Al-Rafidain TV
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:-1 group-title="海外",[伊拉克]Zagros (720p)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]VOX1
+http://51.210.199.8/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]VOX2
+http://51.210.199.9/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]Payam Javan TV (720p)
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]Payvand TV (720p)
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]PBC Tapesh TV (720p)
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]SL 1
+http://51.210.199.3/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]SL 2
+http://51.210.199.2/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]T2 TV
+http://208.113.204.104:8123/live/tapesh-live-stream/index.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]Iran Beauty (Webradio)
+http://51.210.199.57/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]AVA Family
+http://51.210.199.5/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]AVA Series
+http://51.210.199.4/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]HodHod TV
+http://51.210.199.12/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]VARZESH (1080p)
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]IRIB Varzesh (1080p)
+http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8
+#EXTINF:-1 group-title="海外",[伊朗]Mohabat TV (540p)
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Videolina
+http://livestreaming.videolina.it/live/Videolina/chunklist_w523418370.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Videolina (Sardegna) (404p)
+http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Tele Quattro
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Tele Sondrio News (480p)
+https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]VISUAL RADIO (576p)
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Telefoggia (480p)
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Icaro TV (720p)
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Elive Brescia TV (720p)
+http://59d7d6f47d7fc.streamlock.net:1935/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Elive TV Brescia (720p)
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]RMK TV Sciacca (720p)
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Parole di Vita (720p)
+https://5db313b643fd8.streamlock.net:443/Paroledivita/Paroledivita/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TV Qui (Modena) (480p)
+https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]teleMonteneve [Not 24/7]
+http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Entella TV (720p) [Not 24/7]
+https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TelePavia (720p)
+http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]telePAVIA (720p)
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TeleQuattro (480p)
+http://wms.shared.streamshow.it/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TVRS [Not 24/7]
+http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TV UNO
+http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
+#EXTINF:-1 group-title="海外",[意大利]Esperia TV (480p)
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TRM h24 Basilicata (480p)
+http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Primocanale (1080p)
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]RTC Telecalabria (576p)
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]51 Radio TV (480p)
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Teletricolore (480p)
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Studio 100 Puglia (480p)
+http://wms.shared.streamshow.it:1935/studio100ta/studio100ta/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TeleVenezia (480p)
+https://59d8c0cee6f3d.streamlock.net/televenezia/televenezia/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TeleVideo Agrigento (480p)
+https://59d7d6f47d7fc.streamlock.net/tva/tva/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Euro Indie Music Chart TV (360p)
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Super J TV Teramo
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Euro TV (720p)
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Super TV (720p)
+http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Super TV Brescia (720p)
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TSN Tele Sondrio News (480p)
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TV7 Azzurra
+http://217.61.26.46:8080/hls/azzurra.m3u8
+#EXTINF:-1 group-title="海外",[意大利]RTTR Trento (404p)
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TV7 News
+http://217.61.26.46:8080/hls/news.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TV7 Triveneta
+http://217.61.26.46:8080/hls/triveneta.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Donna Shopping (360p)
+https://media.streambrothers.com:1936/8038/8038/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]TG Norba 24
+http://flash5.streaming.xdevel.com/tgnorba_24/smil:tgnorba_24.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Canale 10 (540p)
+http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Canale 10 Ostia (540p)
+http://canale10.cloud:1935/ch10live/high.stream/master.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Canale 2 Altamura
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Canale 2 Altamura (576p)
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Canale 7 (480p)
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]CANALE 7 (480p)
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]CANALE 8 (480p)
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Canale 8 (480p)
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio 51 (480p)
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Carina TV (480p)
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Carina TV (480p)
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio 51 Lombardia (480p)
+http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio 51 TV (480p)
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Reggio TV (480p)
+http://59d7d6f47d7fc.streamlock.net:1935/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]ReggioTV (480p)
+https://59d7d6f47d7fc.streamlock.net/reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Company TV (720p)
+https://5929b138b139d.streamlock.net/CompanyTV/livestream_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Vera TV (480p)
+http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Ibiza TV (360p) [Not 24/7]
+https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Vera TV (Marche) (480p)
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Vera TV Marche (480p)
+http://wms.shared.streamshow.it:1935/veratv/veratv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Iglesias (576p)
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Iglesias Sardegna (576p)
+https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Kiss Kiss Italia TV (380p)
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Italia 2 (480p)
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Italia 2 TV (480p)
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Lucania Channel
+http://wms.shared.streamshow.it/lucaniatv/mp4:lucaniatv/chunklist_w852349934.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Reteveneta
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/chunklist_w1193659434.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Reteveneta (480p)
+https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Tele Abruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Radicale TV (240p)
+https://video-ar.radioradicale.it/diretta/padtv2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Video Brescia (720p)
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Video Brescia TV (720p)
+http://wms.shared.streamshow.it/videobrescia/mp4:videobrescia/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Radio Taormina Sicilia (720p)
+https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Iunior TV (720p)
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[意大利]Tele Pavia (720p)
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乔丹]Rotana Radio Jordan (220p)
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乔丹]Fajer TV
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+#EXTINF:-1 group-title="海外",[吉尔吉斯斯坦]TV1 KG
+http://212.2.225.30:1935/live/site.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[吉尔吉斯斯坦]Любимый HD/ТНТ4 (576p)
+http://92.245.103.126:1935/live/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[哈萨克斯坦]Gakku
+https://sc.id-tv.kz:443/Gakku.m3u8
+#EXTINF:-1 group-title="海外",[哈萨克斯坦]Gakku TV
+https://sc.id-tv.kz/Gakku_36_37.m3u8
+#EXTINF:-1 group-title="海外",[哈萨克斯坦]КМА
+https://sc.id-tv.kz/KMA_34_35.m3u8
+#EXTINF:-1 group-title="海外",[哈萨克斯坦]КТК (360p)
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 group-title="海外",[黎巴嫩]OTV
+http://62.182.82.104/OTV/index.m3u8?token=test
+#EXTINF:-1 group-title="海外",[黎巴嫩]CharityTV (1080p)
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 group-title="海外",[列支敦士登]Kommu TV
+http://31.10.19.12:8066/live/999/0.m3u8
+#EXTINF:-1 group-title="海外",[斯里兰卡]Santhora TV (720p)
+http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w52779246.m3u8
+#EXTINF:-1 group-title="海外",[斯里兰卡]Santhora TV - SHORTFILM (720p)
+http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/chunklist_w405490395.m3u8
+#EXTINF:-1 group-title="海外",[斯里兰卡]Athavan TV (360p)
+http://45.77.66.224:1935/athavantv/live_360p/chunklist_w305811568.m3u8
+#EXTINF:-1 group-title="海外",[斯里兰卡]Hiru TV (360p) [Not 24/7]
+https://eu10b.serverse.com:1936/8012/8012/chunklist_w73015902.m3u8
+#EXTINF:-1 group-title="海外",[斯里兰卡]Rupavahini (480p)
+http://dammikartmp.tulix.tv/slrc1/slrc1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[利比亚]Jamahiria TV
+https://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:-1 group-title="海外",[利比亚]Libya Channel [Not 24/7]
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:-1 group-title="海外",[摩洛哥]M24 HD
+http://79.137.106.241/live/smil:OutStream1.smil/chunklist_w575132091_b4500000_sleng.m3u8
+#EXTINF:-1 group-title="海外",[摩洛哥]M24 TV HD (720p)
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[摩洛哥]Tamazight (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="海外",[摩纳哥]Monaco Info
+https://webtvmonacoinfo.mc/live/prod_720/index.m3u8
+#EXTINF:-1 group-title="海外",[摩尔多瓦共和国]TNT_EXCLUSIV
+http://89.28.25.122/hls/tnt_md.m3u8
+#EXTINF:-1 group-title="海外",[摩尔多瓦共和国]Noroc TV
+http://live.noroc.tv/hls/noroctv_chisinau.m3u8
+#EXTINF:-1 group-title="海外",[马耳他]Smash TV (720p)
+http://s3.smashmalta.com/hls/smash/smash.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Conecta TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]TVP mochis HD
+https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w52505888_b1428000_sleng.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]TVP obregon [Not 24/7]
+https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w888631267_b1428000_sleng.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Multimedios Guadalajara
+http://mdstrm.com/live-stream-playlist_400/5c54d38ca392a5119bb0aa0d.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Multimedios Laguna
+http://mdstrm.com/live-stream-playlist_400/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]POP TV
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w1489788315_b978000_sleng.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Transmedia Televisión Morelia
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Teleritmo
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]TELERITMO
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?tecnotv.info?.m3u
+#EXTINF:-1 group-title="海外",[墨西哥]Teleritmo (Monterrey) (480p)
+http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]RTQ Queretaro (360p)
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Alcarria TV
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Hipódromo de las Américas
+http://wms.tecnoxia.com:1935/8158/8158/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]Genesis TV (720p)
+http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[墨西哥]TVP
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/chunklist_w747018279_b1428000_sleng.m3u8
+#EXTINF:-1 group-title="海外",[马来西亚]Maah TV
+http://51.210.199.33/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[莫桑比克]TVM Internacional
+http://196.28.226.121:1935/live/smil:Channel2.smil/chunklist_b714000_slpor.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]Radio VOS FM
+http://593aed234297b.streamlock.net:1935/henrymeeuws/henrymeeuws/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]Tommy Teleshopping (480p)
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]Meer TV
+http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]Meer TV (720p)
+https://593aed234297b.streamlock.net/meervandaag/meervandaag/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]RTV Dordrecht
+http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]RTV NOF (WEB) (720p) [Not 24/7]
+http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]RTV NOF TV (720p)
+http://593aed234297b.streamlock.net:1935/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]RTV Noordoost Friesland (720p)
+https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]WOS TV (1080p)
+https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]Omroep Ede
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/chunklist_w1121029744_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]Omroep Ede (480p)
+https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]Radio 350 (WEB)
+http://stream.radio350.nl/hls/radio350.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]GO-RTV (720p)
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/playlist.m3u8
+#EXTINF:-1 group-title="海外",[荷兰]ORTS
+http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1 group-title="海外",[挪威]STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
+#EXTINF:-1 group-title="海外",[新西兰]Maori TV
+https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master_iPad720p.m3u8
+#EXTINF:-1 group-title="海外",[新西兰]Te Reo
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720613/1614493167001_2/master_iPad1080p.m3u8
+#EXTINF:-1 group-title="海外",[新西兰]Te Reo
+https://bcsecurelivehls-i.akamaihd.net/hls/live/720613/1614493167001_2/master_iPad720p.m3u8
+#EXTINF:-1 group-title="海外",[NZ;AU]Māori Television (1080p)
+https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
+#EXTINF:-1 group-title="海外",[秘鲁]TV Noticias 7.3
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+#EXTINF:-1 group-title="海外",[秘鲁]TV Peru
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0003&mode=12
+#EXTINF:-1 group-title="海外",[秘鲁]TV Perú [Not 24/7]
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 group-title="海外",[秘鲁]TV Perú Noticias [Not 24/7]
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 group-title="海外",[秘鲁]Pax TV (480p)
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[秘鲁]Vía Televisión (Tarapoto) [Not 24/7]
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8
+#EXTINF:-1 group-title="海外",[秘鲁]Monterrico TV (1080p)
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[秘鲁]Radio San Borja TV [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[巴基斯坦]One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 group-title="海外",[巴基斯坦]One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="海外",[波兰]Sfera TV (480p)
+http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[波兰]TV Torun HD (1080p)
+http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[波兰]TV Toruń (1080p)
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:-1 group-title="海外",[波兰]TV Trwam
+https://trwamtv.live.e59-po.insyscd.net/cl01/out/u/trwam_3.m3u8
+#EXTINF:-1 group-title="海外",[波兰]TVT
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:-1 group-title="海外",[波兰]TVT Zgorzelec
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 group-title="海外",[波兰]Telewizja Toruń
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 group-title="海外",[波兰]Ezo TV (576p) [Not 24/7]
+http://live.ezotv.pl:1935/live/EZOTV/playlist.m3u8
+#EXTINF:-1 group-title="海外",[波兰]TV Kujawy
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 group-title="海外",[PR]Pura Palabra (720p)
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
+#EXTINF:-1 group-title="海外",[PS]Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
+#EXTINF:-1 group-title="海外",[PS]Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/index.m3u8
+#EXTINF:-1 group-title="海外",[PS]Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/index.m3u8
+#EXTINF:-1 group-title="海外",[PS]Marah FM (720p)
+http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
+#EXTINF:-1 group-title="海外",[PS]MusawaChannel (404p)
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 group-title="海外",[PS]Audeh
+http://htvpalsat.mada.ps:8888/audeh/index.m3u8
+#EXTINF:-1 group-title="海外",[葡萄牙]1001 Noites (720p) [Not 24/7]
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[葡萄牙]Kuriakos TV (1080p)
+http://195.22.11.11:1935/ktv/ktv1/FluxusTV.m3u8
+#EXTINF:-1 group-title="海外",[葡萄牙]Kuriakos TV (720p)
+http://195.22.11.11:1935/ktv/ktv1/iptvm3uplaylists.com.m3u8
+#EXTINF:-1 group-title="海外",[葡萄牙]Kuriakos TV (576p)
+http://195.22.11.11:1935/ktv/ktv2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[葡萄牙]Igreja Online
+http://195.22.11.11:1935/igronline/igronline2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[葡萄牙]Sobrenatural TV (1080p)
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1 group-title="海外",[葡萄牙]TV Fátima (1080p)
+http://213.13.26.11:1935/live/santuario.stream/livestream.m3u8
+#EXTINF:-1 group-title="海外",[巴拉圭]Trece Paraguay
+http://174.138.118.252/live/trece.m3u8
+#EXTINF:-1 group-title="海外",[巴拉圭]Unicanal [Not 24/7]
+http://45.55.127.106/live/unicanal.m3u8
+#EXTINF:-1 group-title="海外",[巴拉圭]GEN TV HD
+https://videohd.live:19360/8010/8010.m3u8?_=1
+#EXTINF:-1 group-title="海外",[罗马尼亚]Bucovina TV (480p)
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Nova TV Brasov (576p)
+http://novapress.ro:1935/live/nova/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Intermedia TV [Not 24/7]
+http://46.4.14.12:9999/intermedia1/intermedia1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Intermedia TV (576p)
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Na?ul TV (720p) [Not 24/7]
+https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Light Channel
+http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Alfa Omega TV (540p) [Not 24/7]
+http://s5.alfaomega.tv:1935/alfaomega/alfaomega1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Alfa Omega TV (540p)
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[罗马尼亚]Speranta TV (596p)
+http://play.streamkit.tv/content/channel/sperantatv/live/sperantatv.player.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik AMVA 2020 (RS)
+https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik Cafe&Club Serbia (720p)
+https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik HipHop Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik Jeka Serbia (720p)
+https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik Mediteraneo Serbia (720p)
+https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik OKK Serbia (720p)
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik Rock&Roll Serbia (720p)
+https://muzzik-live.morescreens.com/mts-1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik TV Serbia (720p)
+https://muzzik-live.morescreens.com/mts-6/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]Muzzik Worldwide Serbia (720p)
+https://muzzik-live.morescreens.com/mts-5/playlist.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]RTV City Ub (576p)
+http://167.172.39.13/hls/tvcityub.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]TV Belle Amie (720p) [Not 24/7]
+http://92.60.238.10:1935/live/belleamie/chunklist_w1811501290.m3u8
+#EXTINF:-1 group-title="海外",[塞尔维亚]TV Duga Plus (480p)
+http://109.92.29.10:1935/tvduga/tvduga/chunklist_w1097511114.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Москва 24 (720p)
+http://188.40.68.167/russia/moskva24/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Хабар
+https://sc.id-tv.kz/Khabar_34_35.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Хабар 24
+https://sc.id-tv.kz/Khabar_24_34_35.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Radost Moya (576p)
+http://cdn-01.bonus-tv.ru:8080/radostmoya_edge/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Шансон ТВ
+http://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Шокирующее HD
+http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Нано
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ЮТВ (Чебоксары) (432p)
+http://serv24.vintera.tv:8081/utv/Stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Небеса ТВ7 (720p)
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Небеса ТВ7 (RU) (720p)
+http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]НЛО HD
+http://spacetv.in/stream/DIPK8H19CP8/344.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Новый
+http://spacetv.in/stream/DVB2D6AE8CU/157.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]TV PRO [Not 24/7]
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]НТВ+ Спорт (720p)
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]НТМ (Народное телевидение Мордовии) (720p)
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]НТС (Севастополь)
+https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]О!
+https://sc.id-tv.kz/o_34_35.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Оплот 2
+http://ott.inmart.tv:8081/17/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Остросюжетное HD (576p)
+http://s1.only4.tv/0122/video.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ОТВ (Одинцово)
+http://185.18.4.16/live/3m/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань 24 (720p)
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/tracks-v2a1/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань 24 +1
+http://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань 24 HD (720p)
+http://83.234.104.142/astrakhan24hd/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань 24 HD
+https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань.Ru Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Первый крымский
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань.Ru TV
+http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v5a1/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Астрахань.Ru TV
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Первый Псковский (540p)
+http://194.190.78.91/pskov/rewind-10800.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Первый Тульский
+http://5.164.24.83/tula/1tv_low/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Планета
+https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Prosveshenie (540p)
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Nat Geo WILD Russia
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Ветта 24 (Пермь) (576p)
+http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ПРНК (720p)
+http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Вместе РФ (1080p)
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Просвещение
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Вместе-РФ HD
+http://uiptv.do.am/1ufc/118056781/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Волгоград 1
+http://213.234.30.38/Live/1000k/stream.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Радио Говорит Москва (405p)
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Радость Моя
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Дом кино
+http://spacetv.in/stream/DVB2D6AE8CU/108.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Дом кино 16
+http://spacetv.in/stream/DVB2D6AE8CU/236.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]РЕН ТВ (576p)
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]РЕН ТВ
+http://uiptv.do.am/1ufc/102323759/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]8 канал Крым
+http://176.99.110.252/stream8/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Россия 1 (Калуга)
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Россия 24 (576p)
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Россия 24 (Н.Новгород) (576p)
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Ростов-папа HD (1080p)
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Millenium TV (1080p)
+http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]С1 (Сургут) [Not 24/7]
+https://sitv.ru/hls/stv.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Самара ГИС [Not 24/7]
+http://45.67.57.9:8080/new/new/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Саратов 24 (576p)
+http://saratov24.tv:80/online/playlist.php
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Селенга ТВ
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Канал Disney (576p)
+http://188.40.68.167/russia/disney/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Союз (576p)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Союз (576p)
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?version=2
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Спас
+http://spas.mediacdn.ru/cdn/spas/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Комедийное HD
+http://spacetv.in/stream/DIPK8H19CP8/74.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Страна FM (720p)
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Страшное HD
+http://spacetv.in/stream/DIPK8H19CP8/226.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]СТС
+http://spacetv.in/stream/DVB2D6AE8CU/138.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Крым 24
+http://mr2live.1tvcrimea.ru:8080/24tvcrimea.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Татарстан24 (720p)
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ТВ Европа
+https://cdn1.mobiletv.bg/T10/tvevropa/tvevropa_794613_850k.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ТВ Центр
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ТВ Экстра (720p)
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]TVMChannel (576p)
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ЛДПР ТВ (1080p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ЛДПР ТВ (480p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ЛДПР ТВ (720p)
+http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Телплюс ТВ (Астрахань)
+http://streaming.astrakhan.ru/telplushd/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Тивиком (Улан-Удэ)
+http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]ТКР (Рязань) (720p)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Между.Net (Междуреченск) (720p)
+http://212.77.128.179:8089/www_mezhdunet/mezhdunet/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Миллет
+http://live.trkmillet.ru/millet/index.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Той Думан
+https://sc.id-tv.kz/ToiDuman_36_37.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Мир
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Тольятти 24
+http://91.234.108.26/hls-live/livepkgr/_definst_/liveevent1/vazlivestream1.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Мир 24
+http://uiptv.do.am/1ufc/112234126/playlist.m3u8
+#EXTINF:-1 group-title="海外",[俄罗斯联邦]Мир 24
+https://sc.id-tv.kz/Mir24.m3u8
+#EXTINF:-1 group-title="海外",[卢旺达]KC2
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[卢旺达]RTV Rwanda
+http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[卢旺达]RTV Rwanda
+http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8
+#EXTINF:-1 group-title="海外",[沙特阿拉伯]Jasco Events TV
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:-1 group-title="海外",[沙特阿拉伯]Makkah TV
+https://5ab29cc78f681.streamlock.net/makkahtv/livestream/chunklist_w2097348824.m3u8?v=2957056943
+#EXTINF:-1 group-title="海外",[沙特阿拉伯]AL HOKAIR Group TV
+http://82.212.74.3:8000/live/7513.m3u8
+#EXTINF:-1 group-title="海外",[苏丹]Sudan TV (360p)
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/sudan_tv/hls1/sudan_tv.m3u8
+#EXTINF:-1 group-title="海外",[瑞典]Kanal 10 Asia (540p)
+https://cdn-kanal10.crossnet.net/kanal10/ngrp:kanal10asia_all/chunklist_w522739009_b2128000.m3u8
+#EXTINF:-1 group-title="海外",[瑞典]Himlen TV7 (360p)
+http://vod.tv7.fi:1935/tv7-se/_definst_/mp4:tv7-se.stream_360p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[斯洛文尼亚]GTV
+http://91.220.221.60/gtv_hls/gtv_03.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Объектив 59 (576p)
+https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]34 канал (576p)
+http://streamvideol.luxnet.ua/34ua/34ua.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Travel Guide TV (720p)
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ОТВ (Днепр)
+http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Академия (Одесса)
+http://cdn10.live-tv.od.ua:8081/36chod/36chod-abr/36chod/36chod/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Архат ТВ
+https://arhat.tv/public/720p/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Первый Городской (Кривой Рог)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Первый городской (Одесса) (1080p)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Первый Городской (Одесса)
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Первый городской (Одесса) (504p)
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]4 канал
+http://95.67.106.10/hls/nta_ua_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Первый Деловой
+http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Балта ТВ
+http://194.50.51.34/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Перший Д?ловий
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Перший Зах?дний (Львов) (480p)
+http://hls.cdn.ua/1zahid.com_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Перший незалежний
+http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ПравдаТУТ
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Simon (576p)
+https://hls.simon.ua/live-HD/live/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Прямий
+http://95.67.21.100/hls/prm_ua_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ВТВ
+http://video.vtvplus.com.ua:81/hls/online/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Skrypin.ua
+https://open-cdn.lanet.tv/live/1008.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Глас
+http://85.238.112.69:8811/hls_sec/239.0.4.18-.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]UA TV
+http://95.67.106.242:80/hls/ua-tv_ua_mid/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]HD Fashion & Lifestyle
+http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Донбас Online (1080p)
+http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]HDFashion
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?_=1518069241
+#EXTINF:-1 group-title="海外",[乌克兰]Репортер
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]HDFashion & LifeStyle
+http://95.67.47.114/hls/hdfashion_ua_low/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]HDFashion & LifeStyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Измаил ТВ
+http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ИРТ (Днепр)
+http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Сварожичи (720p)
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]К1
+http://109.68.40.67/life/k1.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]К1
+http://109.68.40.67/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]К1
+http://edge3.iptv.macc.com.ua/life/k1_3/index.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]СК 1
+https://cdn10.live-tv.od.ua:8083/sk1zt/sk1zt-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]СК1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ТВА (Чернiвцi) (576p)
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ТВА Черн?вц?
+http://hls.cdn.ua/tva.ua_live/livestream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]KRATU
+http://cdn10.live-tv.od.ua:8081/kratu/kratu-abr/kratu/kratu/playlist.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Kratu
+https://cdn10.live-tv.od.ua:8083/kratu/kratu-abr-lq/kratu/kratu-sub/chunks.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Renome
+http://85.238.112.40:8810/hls_sec/online/list-renome.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]Renome (Одесса)
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]MostVideo.TV
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 group-title="海外",[乌克兰]ТРК АЛЕКС
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1 group-title="海外",[英国]Sky-MoviesComedy
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+#EXTINF:-1 group-title="海外",[美国]La Mega Mundial (720p)
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]MyTime movie network (Spain)
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Esperanza TV (480p)
+http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]National Geographic Abu Dhabi
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+#EXTINF:-1 group-title="海外",[美国]KBSV/AssyriaSat
+http://66.242.170.53/hls/live/temp/index.m3u8
+#EXTINF:-1 group-title="海外",[美国]ATD TV (American TV of Dardania)
+http://46.99.146.236/0.m3u8
+#EXTINF:-1 group-title="海外",[美国]District of Columbia Network (DCN)
+http://video.oct.dc.gov/out/u/21_4.m3u8
+#EXTINF:-1 group-title="海外",[美国]Irane Farda
+http://51.210.199.53/hls/stream.m3u8
+#EXTINF:-1 group-title="海外",[美国]Genesis TV (720p)
+http://201.144.184.98:1935/genesis/smil:television.smil/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Alkarma TV Australia (1080p)
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Alkarma TV North America & Canada (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]Alkarma TV Youth & English (1080p)
+https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
+#EXTINF:-1 group-title="海外",[美国]VBS
+http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/chunklist_w530158239_b1228800.m3u8
+#EXTINF:-1 group-title="海外",[乌拉圭]Ovacion (720p)
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+#EXTINF:-1 group-title="海外",[委内瑞拉]Televisora de Oriente
+http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w545582271.m3u8
+#EXTINF:-1 group-title="海外",[委内瑞拉]Televisora de Oriente (426p)
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
+#EXTINF:-1 group-title="海外",[委内瑞拉]Vepaco TV [Not 24/7]
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/chunklist_w2073389661.m3u8
+#EXTINF:-1 group-title="海外",[委内瑞拉]Vepaco TV (486p) [Not 24/7]
+http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8
+#EXTINF:-1 group-title="海外",[越南]Tien Giang (720p)
+http://thtg.vn:8001/thtg.m3u8
+#EXTINF:-1 group-title="海外",[越南]VITV
+http://210.86.230.202:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="海外",[越南]LA34 - Long An
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+#EXTINF:-1 group-title="海外",[越南]Cà Mau TV
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="海外",[越南]PTP - Phú Yên [Not 24/7]
+http://113.161.4.48:8080/phuyen/tv.m3u8
+#EXTINF:-1 group-title="海外",[越南]QRT
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="海外",[越南]Qu?c H?i (720p)
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[越南]Gia Lai TV
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+#EXTINF:-1 group-title="海外",[越南]BRT (360p)
+http://113.163.216.23:1935/live/tv2.stream_480p/playlist.m3u8
+#EXTINF:-1 group-title="海外",[XK]RTK 1 HD (720p)
+http://84.22.56.10:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[XK]RTK 2
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/chunklist_w4886007.m3u8
+#EXTINF:-1 group-title="海外",[XK]RTK 2 (720p)
+http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[XK]RTK 2 (720p)
+http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[XK]Peace TV Albanian (Peace TV Shqip)
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 group-title="海外",[XK]RTK 4 (720p)
+http://84.22.56.10:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1 group-title="海外",[XK]RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/chunklist.m3u8
+#EXTINF:-1 group-title="海外",[也门]Suhail TV
+http://82.212.74.98:8000/live/hls/7726.m3u8
+#EXTINF:-1 group-title="海外",[也门]Yemen Shabab
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
